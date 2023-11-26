@@ -39,7 +39,7 @@
     "@sanity/resolver": "2.35.0",
     "@sanity/util": "2.35.0",
     "@sanity/webpack-integration": "2.35.0",
-    "css-modules-require-hook": "4.1.0",
+    "css-modules-require-hook": "4.2.2",
     "interop-require": "^1.0.0"
   }
 }
