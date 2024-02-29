@@ -24,7 +24,7 @@
     "ndjson"
   ],
   "dependencies": {
-    "archiver": "^5.0.0",
+    "archiver": "^7.0.0",
     "debug": "^3.2.7",
     "fs-extra": "^7.0.0",
     "get-it": "^5.2.1",
