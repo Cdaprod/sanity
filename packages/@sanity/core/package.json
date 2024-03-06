@@ -29,7 +29,7 @@
     "@babel/preset-typescript": "^7.10.4",
     "@babel/register": "^7.7.4",
     "@sanity/eventsource": "^3.0.1",
-    "@sanity/export": "2.33.2",
+    "@sanity/export": "3.31.0",
     "@sanity/generate-help-url": "^3.0.0",
     "@sanity/import": "2.33.2",
     "@sanity/plugin-loader": "2.35.0",
