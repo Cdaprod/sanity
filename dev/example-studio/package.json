@@ -7,7 +7,9 @@
   "license": "MIT",
   "scripts": {
     "start": "sanity start --port 3335",
-    "clean": "rimraf dist"
+    "clean": "rimraf dist",
+    "prepublish": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "keywords": [
     "sanity",
@@ -41,7 +43,8 @@
     "react-dom": "17.0.1",
     "react-icons": "^3.11.0",
     "react-tooltip": "^3.5.0",
-    "styled-components": "^5.2.0"
+    "styled-components": "^5.2.0",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "rimraf": "^2.7.1"
@@ -54,5 +57,6 @@
     "type": "git",
     "url": "git+https://github.com/sanity-io/sanity.git",
     "directory": "packages/example-studio"
-  }
+  },
+  "snyk": true
 }
