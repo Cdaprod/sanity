@@ -31,7 +31,7 @@
     "@sanity/eventsource": "^3.0.1",
     "@sanity/export": "2.33.2",
     "@sanity/generate-help-url": "^3.0.0",
-    "@sanity/import": "2.33.2",
+    "@sanity/import": "3.37.7",
     "@sanity/plugin-loader": "2.35.0",
     "@sanity/resolver": "2.35.0",
     "@sanity/schema": "2.35.0",
