@@ -30,7 +30,7 @@
     "@sanity/language-filter": "2.35.0",
     "@sanity/portable-text-editor": "3.0.0-v3-pte.87+c3ac77fc8d",
     "@sanity/ui": "^0.37.22",
-    "@sanity/vision": "2.35.0",
+    "@sanity/vision": "3.0.0",
     "bio-pv": "^1.8.1",
     "date-fns": "^2.16.1",
     "get-video-id": "^2.1.4",
