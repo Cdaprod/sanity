@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "@sanity/icons": "^1.3.4",
-    "@sanity/ui": "^0.37.22"
+    "@sanity/ui": "^3.0.0"
   },
   "devDependencies": {
     "rimraf": "^2.7.1"
