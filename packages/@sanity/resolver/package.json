@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@sanity/generate-help-url": "^3.0.0",
-    "@sanity/util": "2.35.0",
+    "@sanity/util": "3.0.0",
     "fs-extra": "^7.0.0",
     "lodash": "^4.17.15",
     "path-exists": "^3.0.0",
