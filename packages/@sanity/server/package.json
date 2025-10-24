@@ -47,7 +47,7 @@
     "@sanity/eventsource": "^3.0.1",
     "@sanity/hot-loader-react-dom": "^16.14.0",
     "@sanity/resolver": "2.35.0",
-    "@sanity/util": "2.35.0",
+    "@sanity/util": "3.0.0",
     "@sanity/webpack-dev-middleware": "^2.0.6",
     "@sanity/webpack-integration": "2.35.0",
     "babel-loader": "^8.0.6",
