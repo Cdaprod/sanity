@@ -46,7 +46,7 @@
     "@sanity/react-hooks": "2.35.1",
     "@sanity/types": "2.35.0",
     "@sanity/ui": "^0.37.22",
-    "@sanity/util": "2.35.0",
+    "@sanity/util": "3.0.0",
     "diff-match-patch": "^1.0.4",
     "lodash": "^4.17.15",
     "sanity-diff-patch": "^1.0.9"
