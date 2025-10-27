@@ -40,7 +40,7 @@
     "@sanity/image-url": "^1.0.1",
     "@sanity/logos": "^1.1.15",
     "@sanity/ui": "^0.37.22",
-    "@sanity/util": "2.35.0",
+    "@sanity/util": "3.0.0",
     "debug": "^3.2.7",
     "is-hotkey": "^0.1.6",
     "lodash": "^4.17.15",
