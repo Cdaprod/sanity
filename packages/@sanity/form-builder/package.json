@@ -29,7 +29,7 @@
   "dependencies": {
     "@reach/auto-id": "^0.13.2",
     "@sanity/asset-utils": "^1.2.5",
-    "@sanity/base": "2.35.0",
+    "@sanity/base": "2.36.6",
     "@sanity/block-tools": "2.35.0",
     "@sanity/client": "^3.3.3",
     "@sanity/color": "^2.1.14",
