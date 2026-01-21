@@ -27,7 +27,7 @@
   "author": "Sanity.io <hello@sanity.io>",
   "license": "MIT",
   "dependencies": {
-    "@reach/auto-id": "^0.13.2",
+    "@reach/auto-id": "^0.18.0",
     "@sanity/asset-utils": "^1.2.5",
     "@sanity/base": "2.35.0",
     "@sanity/block-tools": "2.35.0",
